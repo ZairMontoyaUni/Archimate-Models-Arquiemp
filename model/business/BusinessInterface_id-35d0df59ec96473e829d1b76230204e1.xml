@@ -1,5 +1,5 @@
 <archimate:BusinessInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Printify"
+    name="Portal Web"
     id="id-35d0df59ec96473e829d1b76230204e1"
     documentation="Plataforma orquestadora que conecta Comerciantes con Proveedores de Impresión y ejecuta los procesos centrales del negocio.&#xA;"/>
