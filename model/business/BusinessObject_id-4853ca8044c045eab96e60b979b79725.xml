@@ -1,0 +1,7 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Producto Base"
+    id="id-4853ca8044c045eab96e60b979b79725">
+  <properties
+      key="Id"/>
+</archimate:BusinessObject>

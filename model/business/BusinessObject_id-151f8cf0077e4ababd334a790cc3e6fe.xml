@@ -1,0 +1,10 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pedido"
+    id="id-151f8cf0077e4ababd334a790cc3e6fe"
+    documentation="Solicitud de compra generada por un Cliente.">
+  <properties
+      key="Id"/>
+  <properties
+      key="Valor"/>
+</archimate:BusinessObject>

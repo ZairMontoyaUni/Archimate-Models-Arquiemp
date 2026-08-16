@@ -1,0 +1,16 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Comerciante"
+    id="id-f5386a6df07f477099c36931522a4927"
+    documentation="Vendedor online que utiliza Printify para crear y vender productos personalizados.">
+  <properties
+      key="Id"/>
+  <properties
+      key="Nombre"/>
+  <properties
+      key="Telefono"/>
+  <properties
+      key="Dirección"/>
+  <properties
+      key="Correo"/>
+</archimate:BusinessActor>

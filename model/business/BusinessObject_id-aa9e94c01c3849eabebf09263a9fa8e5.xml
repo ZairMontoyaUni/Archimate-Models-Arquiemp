@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Impresión"
+    id="id-aa9e94c01c3849eabebf09263a9fa8e5">
+  <properties
+      key="Id"/>
+  <properties
+      key="Precio"/>
+</archimate:BusinessObject>

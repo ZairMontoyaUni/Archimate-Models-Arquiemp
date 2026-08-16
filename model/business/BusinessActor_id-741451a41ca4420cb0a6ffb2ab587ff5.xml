@@ -1,0 +1,15 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proveedor"
+    id="id-741451a41ca4420cb0a6ffb2ab587ff5">
+  <properties
+      key="Id"/>
+  <properties
+      key="Nombre"/>
+  <properties
+      key="Telefono"/>
+  <properties
+      key="Dirección"/>
+  <properties
+      key="Correo"/>
+</archimate:BusinessActor>

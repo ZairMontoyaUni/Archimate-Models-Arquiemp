@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ropa"
+    id="id-ce74b772c5d24dd9a54e539454eeb5a4">
+  <properties
+      key="Id"/>
+  <properties
+      key="Tipo"/>
+</archimate:BusinessObject>

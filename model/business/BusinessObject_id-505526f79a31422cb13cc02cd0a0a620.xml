@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Util"
+    id="id-505526f79a31422cb13cc02cd0a0a620">
+  <properties
+      key="Id"/>
+  <properties
+      key="Tipo"/>
+</archimate:BusinessObject>

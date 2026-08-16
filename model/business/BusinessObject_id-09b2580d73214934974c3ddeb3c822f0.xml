@@ -1,0 +1,10 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Diseño"
+    id="id-09b2580d73214934974c3ddeb3c822f0"
+    documentation="Archivo gráfico subido por el Comerciante para personalizar un producto.">
+  <properties
+      key="Id"/>
+  <properties
+      key="Imagen"/>
+</archimate:BusinessObject>
