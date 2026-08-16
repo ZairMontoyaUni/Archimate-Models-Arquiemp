@@ -7,6 +7,6 @@
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_id-58b2a84d51544fc59e1a29dec915d00d.xml#id-58b2a84d51544fc59e1a29dec915d00d"/>
   <target
-      xsi:type="archimate:BusinessActor"
-      href="BusinessActor_id-555f1006e04a4dbd8e581fa374196ca2.xml#id-555f1006e04a4dbd8e581fa374196ca2"/>
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_id-35d0df59ec96473e829d1b76230204e1.xml#id-35d0df59ec96473e829d1b76230204e1"/>
 </archimate:AssociationRelationship>
