@@ -24,11 +24,20 @@
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_id-a7b619b4c311461e9b65a3ca35e25d66.xml#id-a7b619b4c311461e9b65a3ca35e25d66"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-cca91544bedb4fa8b606c4c537f302a7"
+        source="id-e222f2f5ec5b4dc584550355ddd59d68"
+        target="id-97381e6fe09b403198702eef0dc1607a">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-5dcfcc05165847feb9a9957de2229ae9.xml#id-5dcfcc05165847feb9a9957de2229ae9"/>
+    </sourceConnections>
     <bounds
-        x="376"
-        y="156"
-        width="120"
-        height="55"/>
+        x="60"
+        y="144"
+        width="184"
+        height="85"/>
     <archimateElement
         xsi:type="archimate:BusinessInterface"
         href="BusinessInterface_id-35d0df59ec96473e829d1b76230204e1.xml#id-35d0df59ec96473e829d1b76230204e1"/>
@@ -38,8 +47,8 @@
       id="id-f48eb32dbcb74c87976f1212235909e4"
       targetConnections="id-d22ef8d24c04491eb5b64f69acd757ae">
     <bounds
-        x="376"
-        y="264"
+        x="168"
+        y="300"
         width="120"
         height="55"/>
     <archimateElement
@@ -51,12 +60,25 @@
       id="id-584730fa7c484cbba00e8db03bf59c2b"
       targetConnections="id-21c9120ecb0c40258f3fce5b372d3ede">
     <bounds
-        x="376"
-        y="63"
+        x="84"
+        y="48"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-f5386a6df07f477099c36931522a4927.xml#id-f5386a6df07f477099c36931522a4927"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-97381e6fe09b403198702eef0dc1607a"
+      targetConnections="id-cca91544bedb4fa8b606c4c537f302a7">
+    <bounds
+        x="12"
+        y="300"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessService"
+        href="BusinessService_id-a6a80d9d6c1e481d8e7d0f4e1d8b9b66.xml#id-a6a80d9d6c1e481d8e7d0f4e1d8b9b66"/>
   </children>
 </archimate:ArchimateDiagramModel>
