@@ -1,12 +1,11 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Lista - Provedores"
-    id="id-23548adf96a343898b9721558b60139e">
+    id="id-1e54db474bab48daa7f0c25bb1dad535">
   <source
       xsi:type="archimate:BusinessActor"
-      href="BusinessActor_id-555f1006e04a4dbd8e581fa374196ca2.xml#id-555f1006e04a4dbd8e581fa374196ca2"/>
+      href="BusinessActor_id-f5386a6df07f477099c36931522a4927.xml#id-f5386a6df07f477099c36931522a4927"/>
   <target
       xsi:type="archimate:BusinessActor"
-      href="BusinessActor_id-741451a41ca4420cb0a6ffb2ab587ff5.xml#id-741451a41ca4420cb0a6ffb2ab587ff5"/>
+      href="BusinessActor_id-1c9d7da60c6844b6b573076521c70d12.xml#id-1c9d7da60c6844b6b573076521c70d12"/>
 </archimate:AssociationRelationship>
