@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lista de Impresores"
+    id="id-63018040f9024de39eb157f5c1e06d2b">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-58b2a84d51544fc59e1a29dec915d00d.xml#id-58b2a84d51544fc59e1a29dec915d00d"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-555f1006e04a4dbd8e581fa374196ca2.xml#id-555f1006e04a4dbd8e581fa374196ca2"/>
+</archimate:AssociationRelationship>
