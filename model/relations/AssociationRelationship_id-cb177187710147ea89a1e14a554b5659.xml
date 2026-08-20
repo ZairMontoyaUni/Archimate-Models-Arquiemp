@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Condiciones"
+    id="id-cb177187710147ea89a1e14a554b5659">
+  <source
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_id-b8704dd7a84c45428550b81d02e2ec24.xml#id-b8704dd7a84c45428550b81d02e2ec24"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-b891ebe2cbdd4328a1d08176f2741e9d.xml#id-b891ebe2cbdd4328a1d08176f2741e9d"/>
+</archimate:AssociationRelationship>

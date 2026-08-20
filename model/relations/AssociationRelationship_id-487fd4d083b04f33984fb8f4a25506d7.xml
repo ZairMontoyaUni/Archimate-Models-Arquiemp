@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Costo Adicional"
+    id="id-487fd4d083b04f33984fb8f4a25506d7">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-c70da200a4f14d7ea928c4c5ce12d8fc.xml#id-c70da200a4f14d7ea928c4c5ce12d8fc"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_id-b8704dd7a84c45428550b81d02e2ec24.xml#id-b8704dd7a84c45428550b81d02e2ec24"/>
+</archimate:AssociationRelationship>

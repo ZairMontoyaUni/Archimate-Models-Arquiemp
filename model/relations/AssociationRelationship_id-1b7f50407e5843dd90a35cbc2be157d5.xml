@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Recursos"
+    id="id-1b7f50407e5843dd90a35cbc2be157d5">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-c70da200a4f14d7ea928c4c5ce12d8fc.xml#id-c70da200a4f14d7ea928c4c5ce12d8fc"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-3b3d1eccab76483fae05cb8b8abe8062.xml#id-3b3d1eccab76483fae05cb8b8abe8062"/>
+</archimate:AssociationRelationship>

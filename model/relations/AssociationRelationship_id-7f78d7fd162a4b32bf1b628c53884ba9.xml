@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alquilar"
+    id="id-7f78d7fd162a4b32bf1b628c53884ba9">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-cbb0f62285854096a9c3829f930d957d.xml#id-cbb0f62285854096a9c3829f930d957d"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-c70da200a4f14d7ea928c4c5ce12d8fc.xml#id-c70da200a4f14d7ea928c4c5ce12d8fc"/>
+</archimate:AssociationRelationship>

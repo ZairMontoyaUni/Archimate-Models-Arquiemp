@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Requisitos Uso"
+    id="id-6cde99005a244b25b87bb66d865b703c">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-1ea03b3a42d64cb9b19259040100463d.xml#id-1ea03b3a42d64cb9b19259040100463d"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_id-b8704dd7a84c45428550b81d02e2ec24.xml#id-b8704dd7a84c45428550b81d02e2ec24"/>
+</archimate:AssociationRelationship>
