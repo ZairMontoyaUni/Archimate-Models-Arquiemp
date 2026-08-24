@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arrendar"
+    id="id-4d985b5c921647858049c3d1c37c47d1">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-5577b4ecca234fcc98bef54165ab9a3f.xml#id-5577b4ecca234fcc98bef54165ab9a3f"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-79e6ef5c4cd8459597ce8b072069c738.xml#id-79e6ef5c4cd8459597ce8b072069c738"/>
+</archimate:AssociationRelationship>

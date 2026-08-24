@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arrendatarios"
+    id="id-a71b69b01b68416dbd0cd05678f4711e">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-5577b4ecca234fcc98bef54165ab9a3f.xml#id-5577b4ecca234fcc98bef54165ab9a3f"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-719f3f3288324c6eb5846addef783c3c.xml#id-719f3f3288324c6eb5846addef783c3c"/>
+</archimate:AssociationRelationship>
