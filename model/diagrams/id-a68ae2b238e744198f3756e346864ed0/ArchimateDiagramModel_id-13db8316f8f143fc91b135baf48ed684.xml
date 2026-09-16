@@ -196,8 +196,8 @@
     <bounds
         x="574"
         y="360"
-        width="156"
-        height="97"/>
+        width="195"
+        height="133"/>
     <children
         xsi:type="archimate:DiagramModelNote"
         id="id-f5c3bcc3e53142f6b1084066858433d3"
@@ -205,8 +205,8 @@
         content="- Nombre:Estring&#xD;&#xA;- Descripción:Estring&#xD;&#xA;- Tipo: Enum&#xD;&#xA;- EsObligatorioParaElCliente:Bool&#xD;&#xA;">
       <bounds
           y="24"
-          width="156"
-          height="72"/>
+          width="193"
+          height="109"/>
     </children>
     <archimateElement
         xsi:type="archimate:BusinessInterface"

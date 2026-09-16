@@ -99,8 +99,8 @@
           href="AssociationRelationship_id-8c2d6a7da5c648cfa332f5eb48c121bb.xml#id-8c2d6a7da5c648cfa332f5eb48c121bb"/>
     </sourceConnections>
     <bounds
-        x="564"
-        y="172"
+        x="613"
+        y="168"
         width="156"
         height="81"/>
     <children
@@ -276,10 +276,10 @@
           href="AssociationRelationship_id-cb177187710147ea89a1e14a554b5659.xml#id-cb177187710147ea89a1e14a554b5659"/>
     </sourceConnections>
     <bounds
-        x="564"
+        x="600"
         y="300"
-        width="156"
-        height="97"/>
+        width="181"
+        height="109"/>
     <children
         xsi:type="archimate:DiagramModelNote"
         id="id-2253694dedce47a8935c71defd32e230"
@@ -287,8 +287,8 @@
         content="- Nombre:Estring&#xD;&#xA;- Descripción:Estring&#xD;&#xA;- Tipo: Enum&#xD;&#xA;- EsObligatorioParaElCliente:Bool&#xD;&#xA;">
       <bounds
           y="24"
-          width="156"
-          height="72"/>
+          width="181"
+          height="85"/>
     </children>
     <archimateElement
         xsi:type="archimate:BusinessInterface"
